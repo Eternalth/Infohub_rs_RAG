@@ -1,0 +1,15 @@
+gradio
+google-generativeai
+langchain
+langchain-google-genai
+langchain-core
+chromadb
+FlagEmbedding
+transformers==4.47.0
+huggingface_hub>=0.23.2,<1.0
+python-dotenv
+torch
+sentence-transformers
+accelerate
+peft
+datasets
